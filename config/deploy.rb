@@ -1,5 +1,5 @@
 # config valid only for current version of Capistrano
-lock '<Capistranoのバージョン>'
+lock '3.11.0'
 
 set :application, 'app_aws'
 set :repo_url,  'git@github.com:40213151/app_aws.git'
